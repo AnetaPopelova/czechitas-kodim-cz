@@ -1,0 +1,9 @@
+Nabízím hezký notebook k procvičování a hlubšímu zkoumání možností propojování DataFramů: Merge()-Join()-And Concat() with Pandas
+https://www.kaggle.com/code/vin1234/merge-join-and-concat-with-pandas
+
+
+A tenhle notebook hezky ukazuje proces cisteni dat: Intro to Exploratory data analysis (EDA) in Python
+https://www.kaggle.com/code/imoore/intro-to-exploratory-data-analysis-eda-in-python
+
+Jak najit mezery / bile znaky: pandas.Series.str.isspace
+Dokumentace: https://pandas.pydata.org/docs/reference/api/pandas.Series.str.isspace.html

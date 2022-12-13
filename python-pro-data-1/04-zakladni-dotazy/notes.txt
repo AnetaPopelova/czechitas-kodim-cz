@@ -1,0 +1,3 @@
+Notebooky na procvicovani
+Easy Peasy Pandas with jokes: https://www.kaggle.com/code/mohtashimnawaz/easy-peasy-pandas-with-jokes
+Indexing, Selecting & Assigning: https://www.kaggle.com/code/residentmario/indexing-selecting-assigning
