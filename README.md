@@ -1,9 +1,11 @@
-<div>
-  <img src="czechitas-logo.gif" title="Czechitas" alt="Czechitas"/>
-</div>
-
 # Podklady ke kurzům Pythonu
 _Materiály vycházejí z webu https://kodim.cz._
+
+<!-- <div align=left> -->
+  <img src="czechitas-logo.gif" title="Czechitas" alt="Czechitas" height="150"/>
+<!-- </div> -->
+
+
 
 
 
