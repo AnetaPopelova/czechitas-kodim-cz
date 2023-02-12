@@ -19,10 +19,10 @@ mesice = [
 # a
 # Pomocí cyklu projděte tento seznam a vypište na výstup názvy jednotlivých měsíců.
 for mesic in mesice:
-    print(mesic)
-    print(mesic[1])
+    # print(mesic)
+    print(mesic[0])
 
 # b
 # Pomocí dalšího cyklu vypište na výstup počty dní v jednotlivých měsících.
-# for mesic in mesice:
-#     print(mesic[1])
+for mesic in mesice:
+    print(mesic[1])
