@@ -7,7 +7,7 @@
 uzivatel = input("Zadej uživatelské jméno: ")
 
 heslo = input("Zadej heslo: ")
-if len(heslo) <= 8:
+if len(heslo) < 8:
     print("Heslo je příliš krátké")
     exit()
 

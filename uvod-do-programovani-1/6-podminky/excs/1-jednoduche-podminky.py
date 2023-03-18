@@ -14,6 +14,7 @@ if heslo != "simsalabim":
 # Upravte dále program tak, že pokud uživatel zadá správné heslo, program se ho ještě zeptá na věk.
 # Pustí jej dál pouze pokud je starší 18ti let.
 vek = int(input("Zadej věk: "))
+
 if vek >= 18:
     print("Smíš vstoupit.")
 else:

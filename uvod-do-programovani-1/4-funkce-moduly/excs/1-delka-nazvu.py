@@ -2,9 +2,6 @@
 
 nazev = "Divadlo Pěst na oko"
 
-# help(len)
-# q for quit
-
 # Pokud použijeme designové písmo nad hlavní vchod budovy, jeden znak (i mezera) bude široký 30 cm.
 # Použijte funkci len() abyste zjistili počet znaků v názvu divadla a spočítejte délku nápisu v centimetrech.
 

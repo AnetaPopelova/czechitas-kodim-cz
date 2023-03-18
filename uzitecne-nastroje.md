@@ -19,3 +19,6 @@ Draw.io for VS Code
 Draw on your screen
 
 * https://imagestudiopro.com/screenbrush/
+
+* https://znakynaklavesnici.cz/jak-napsat-hvezdicku-na-klavesnici/
+

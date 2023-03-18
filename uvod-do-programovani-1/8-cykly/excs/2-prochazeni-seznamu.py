@@ -17,8 +17,8 @@ hesla = [
 
 # Pomocí cyklu vypište všechny hesla na obrazovku, každé na jeden řádek.
 
-for heslo in hesla:
-    print(heslo)
+# for heslo in hesla:
+#     print(heslo)
 
 
 # Bezpečná hesla, tedy taková, jež jsou delší než 8 znaků.

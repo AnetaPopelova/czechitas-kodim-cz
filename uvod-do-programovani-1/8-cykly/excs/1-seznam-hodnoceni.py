@@ -4,8 +4,8 @@ hodnoceni = [7, 9, 6, 7, 9, 8]
 
 # Vytvořte program, který projde tento seznam a vypíše každé hodnocení na nový řádek.
 
-for prvek in hodnoceni:
-    print(prvek)
+for znamka in hodnoceni:
+    print(znamka)
 
 
 # Upravte program tak, aby vypisoval
@@ -19,6 +19,7 @@ for prvek in hodnoceni:
 #     8/10
 
 hodnoceni = [7, 9, 6, 7, 9, 8]
+
 for prvek in hodnoceni:
     print(f"{prvek}/10")
     # print(str(prvek) + "/10")

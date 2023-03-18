@@ -18,5 +18,5 @@ vek = int(vek)
 
 # Opět vypište na obrazovku jméno, příjmení a věk tak jako v předchozí verzi.
 
-print(jmeno + " " + prijmeni + ", věk: " + str(vek))
+print(jmeno + " " + prijmeni + ", věk: " + vek)
 # print(f"{jmeno} {prijmeni}, věk: {vek}")

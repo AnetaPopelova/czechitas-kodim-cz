@@ -10,7 +10,6 @@
 
 # 2 c
 # Zkuste vynásobit řetězec celým číslem. Jaký jste dostali výsledek?
-# Například
 "Divadlo Pěst na oko " * 5
 
 # 2 d

@@ -2,7 +2,7 @@
 # Do proměnné platy spočítejte celkové náklady divadla na platy herců, víme-li, že průměrný plat herce je 22 392 Kč.
 
 herci = 15
-platy = herci * 22392
+platy = herci * 22_392
 
 # Do jiné proměnné s vhodným názvem uložte nějaké desetinné číslo, například velikost slevy na studentské vstupné.
 # Do další proměnné uložte nějaký řetězec, například název nějakého představení.

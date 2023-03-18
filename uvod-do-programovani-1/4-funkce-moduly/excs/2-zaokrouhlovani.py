@@ -9,3 +9,6 @@ eura = 12 * 0.65
 koruny = 24 * eura
 
 koruny = round(24 * eura)
+
+# help(round)
+# q for quit

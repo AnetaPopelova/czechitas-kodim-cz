@@ -2,6 +2,7 @@
 # Vytvořte nějaký seznam celých čísel, například počty diváků na několika po sobě jdoucích představeních.
 # Použije metodu append a přidejte do seznamu počet diváků na jednom dalším představení.
 pocty_divaku = [120, 100, 95, 78, 100]
+
 pocty_divaku.append(113)
 
 
@@ -17,11 +18,11 @@ hry = ["Hra A", "Hra B", "Hra C", "Hra D", "Hra E", "Hra F"]
 
 # Uložte do nějaké proměnné druhou položku tohoto seznamu.
 druha_hra = hry[1]
+print(druha_hra)
 
 # d
 # Do proměnné hodnoceni uložte seznam hodnocení, které obdržela divadelní hra “Plyšáci na útěku” v různých recenzních časopisech.
 # Hodnocení je vždy dvouprvkový seznam obsahující název recenzního časopisu jako řetězec a samotné hodnocení jako číslo mezi 1 až 10.
-
 hodnoceni = [
     ["Casopis A", 5],
     ["Casopis B", 8],
@@ -35,7 +36,6 @@ hodnoceni = hodnoceni + [["Divadelni obeznik", 7]]
 
 """
 ## Více hraní s indexy 
-
 print(hry[2:5])
 print(hry[:3])
 print(hry[3:])
