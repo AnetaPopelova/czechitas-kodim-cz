@@ -3,16 +3,20 @@
 # 1 a
 # Spočítejte měsíční příjem divadla ze vstupného přichází-li průměrně 174 návštěvníků na jedno představení a divadlo hraje 15 představení měsíčně.
 
-12 * 174 * 15
+print(12 * 174 * 15)
 
+# 1 b
 # Divadlo se rozhodlo prodávat studentské vstupné ve výši 65% plného vstupného.
 # Jak se změní měsíční příjem divadla pokud víme, že polovina návštěvníků jsou studenti?
 
-# 1 b
-12 * 174 / 2 * 15 + 12 * 174 / 2 * 15 * 0.65
+# Takže měsíční příjem divadla ze studentského vstupného je 19215.6 euro.
+print(87 * 7.8 * 15)
 
-# # S použitím závorek
-12 * 15 * 174 / 2 * (1 + 0.65)
+## Nebo celkem:
+print(12 * 174 / 2 * 15 + 12 * 174 / 2 * 15 * 0.65)
 
-# # Nebo
-((12 * 174 / 2) + (12 * 0.65 * 174 / 2)) * 15
+## S použitím závorek
+print(12 * 15 * 174 / 2 * (1 + 0.65))
+
+## Nebo
+print(((12 * 174 / 2) + (12 * 0.65 * 174 / 2)) * 15)

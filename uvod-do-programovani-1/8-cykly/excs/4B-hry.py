@@ -35,7 +35,7 @@ for hra in hry:
 for hra in hry:
     print(f"{hra[0]} trvá {hra[1] // 60} hodin a {hra[1] % 60} minut.")
 
-# Alternativa
+# # Alternativa
 for hra in hry:
     print(
         hra[0]

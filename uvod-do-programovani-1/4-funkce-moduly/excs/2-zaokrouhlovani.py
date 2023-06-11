@@ -3,12 +3,8 @@
 
 eura = 12 * 0.65
 
-
 # Použijte funkci round() a do proměnné koruny spočítejte kolik činí studentské vstupné v korunách jestliže kurz eura je 24 korun.
-
-koruny = 24 * eura
-
 koruny = round(24 * eura)
-
+print(koruny)
 # help(round)
 # q for quit

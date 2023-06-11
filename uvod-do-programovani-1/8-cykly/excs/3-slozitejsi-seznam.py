@@ -24,5 +24,5 @@ for mesic in mesice:
 
 # b
 # Pomocí dalšího cyklu vypište na výstup počty dní v jednotlivých měsících.
-for mesic in mesice:
-    print(mesic[1])
+# for mesic in mesice:
+#     print(mesic[1])

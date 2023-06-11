@@ -11,10 +11,10 @@ print(jmeno + " " + prijmeni)
 
 vek = input("Zadej věk: ")
 
-# Pozor na to, že funkce input() vždy vrací řetězec, ale my chceme v proměnné vek mít číslo.
-# Použijte tedy funkci int(), abyste převedli uživatelem zadaný řetězec na číslo.
+# # Pozor na to, že funkce input() vždy vrací řetězec, ale my chceme v proměnné vek mít číslo.
+# # Použijte tedy funkci int(), abyste převedli uživatelem zadaný řetězec na číslo.
 
-vek = int(vek)
+# vek = int(vek)
 
 # Opět vypište na obrazovku jméno, příjmení a věk tak jako v předchozí verzi.
 

@@ -16,12 +16,12 @@ print(nazev + " - " + cas)
 print(f"{nazev} - {cas}")
 
 
-# Upravte dále program tak, že do proměnné hodina uložíte hodinu konání představení (jako celé číslo) a do proměnné minuta minutu konání, také jako celé číslo.
+# # Upravte dále program tak, že do proměnné hodina uložíte hodinu konání představení (jako celé číslo) a do proměnné minuta minutu konání, také jako celé číslo.
 hodina = 19
 minuta = 30
 
-# Zařiďte, aby výstup programu vypadal takto: Zkrocení zlé ženy - 19:30.
-# Pozor na to, že hodina a minuta je hodnota typu číslo, takže ji budete při výpisu muset převést na řetězec pomocí funkce str().
+# # Zařiďte, aby výstup programu vypadal takto: Zkrocení zlé ženy - 19:30.
+# # Pozor na to, že hodina a minuta je hodnota typu číslo, takže ji budete při výpisu muset převést na řetězec pomocí funkce str().
 
 print(nazev + " - " + str(hodina) + ":" + str(minuta))
 print(f"{nazev} - {hodina}:{minuta}")

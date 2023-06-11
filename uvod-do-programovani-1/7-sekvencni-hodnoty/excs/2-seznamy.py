@@ -2,21 +2,22 @@
 # Vytvořte nějaký seznam celých čísel, například počty diváků na několika po sobě jdoucích představeních.
 # Použije metodu append a přidejte do seznamu počet diváků na jednom dalším představení.
 pocty_divaku = [120, 100, 95, 78, 100]
+print(pocty_divaku)
 
-pocty_divaku.append(113)
+# pocty_divaku.append(113)
+# print(pocty_divaku)
 
-
-# b
-# Vytvořte nějaký seznam desetinných čísel, například zaplněnost divadla v několika po sobě jdoucích představeních.
+# # b
+# # Vytvořte nějaký seznam desetinných čísel, například zaplněnost divadla v několika po sobě jdoucích představeních.
 zaplnenost = [0.9, 0.8, 0.7, 0.65, 0.8, 0.85]
 
 
-# c
-# Vytvořte nějaký seznam řetězců, například seznam názvů několika divadelních představení, která divadlo hraje.
-# Uložte tento seznam do proměnné hry.
+# # c
+# # Vytvořte nějaký seznam řetězců, například seznam názvů několika divadelních představení, která divadlo hraje.
+# # Uložte tento seznam do proměnné hry.
 hry = ["Hra A", "Hra B", "Hra C", "Hra D", "Hra E", "Hra F"]
 
-# Uložte do nějaké proměnné druhou položku tohoto seznamu.
+# # Uložte do nějaké proměnné druhou položku tohoto seznamu.
 druha_hra = hry[1]
 print(druha_hra)
 
@@ -35,7 +36,7 @@ hodnoceni.append(["Divadelni obeznik", 7])
 hodnoceni = hodnoceni + [["Divadelni obeznik", 7]]
 
 """
-## Více hraní s indexy 
+## Více hraní s indexy
 print(hry[2:5])
 print(hry[:3])
 print(hry[3:])

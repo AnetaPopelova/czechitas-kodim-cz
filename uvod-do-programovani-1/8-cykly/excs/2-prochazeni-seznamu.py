@@ -17,8 +17,8 @@ hesla = [
 
 # Pomocí cyklu vypište všechny hesla na obrazovku, každé na jeden řádek.
 
-# for heslo in hesla:
-#     print(heslo)
+for heslo in hesla:
+    print(heslo)
 
 
 # Bezpečná hesla, tedy taková, jež jsou delší než 8 znaků.
@@ -30,6 +30,6 @@ for heslo in hesla:
 # Neco extra
 # Upravte váš program tak, aby vypisoval jen ta hesla, jež obsahují znak pomlčky `-`.
 
-for heslo in hesla:
-    if "-" in heslo:
-        print(heslo)
+# for heslo in hesla:
+#     if "-" in heslo:
+#         print(heslo)

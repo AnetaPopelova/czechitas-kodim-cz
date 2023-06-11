@@ -5,3 +5,4 @@
 import random
 
 cislo = random.randint(1, 24)
+print(cislo)

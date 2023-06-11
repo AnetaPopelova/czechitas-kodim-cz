@@ -18,7 +18,7 @@ for znamka in hodnoceni:
 #     9/10
 #     8/10
 
-hodnoceni = [7, 9, 6, 7, 9, 8]
+# hodnoceni = [7, 9, 6, 7, 9, 8]
 
 for prvek in hodnoceni:
     print(f"{prvek}/10")

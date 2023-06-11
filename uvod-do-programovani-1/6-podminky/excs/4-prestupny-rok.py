@@ -4,7 +4,7 @@
 
 rok = int(input("Zadej rok: "))
 
-delitelne_4 = rok % 4 == 0
+delitelne_4 = rok % 4 == 0  # True or False
 delitelne_100 = rok % 100 == 0
 delitelne_400 = rok % 400 == 0
 
@@ -33,3 +33,8 @@ if rok % 4 == 0:
         print("Rok je přestupný.")
 else:
     print("Rok není přestupný.")
+
+
+#####
+# import calendar
+# print(calendar.isleap(1900))
