@@ -9,7 +9,7 @@ print(12 * 174 * 15)
 # Divadlo se rozhodlo prodávat studentské vstupné ve výši 65% plného vstupného.
 # Jak se změní měsíční příjem divadla pokud víme, že polovina návštěvníků jsou studenti?
 
-# Takže měsíční příjem divadla ze studentského vstupného je 19215.6 euro.
+# Měsíční říjem divdla ze studentského vstupného:
 print(87 * 7.8 * 15)
 
 ## Nebo celkem:
