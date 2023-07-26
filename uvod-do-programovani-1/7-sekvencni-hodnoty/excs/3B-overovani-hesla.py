@@ -20,3 +20,11 @@ if znak != heslo[6]:
     print("Chyba ověření.")
     exit()
 print("Ověření bylo úspěšné!")
+
+# Bonus bonusu: Program náhodně vygeneruje na jaké tři písmena hesla se bude ptát.
+# import random
+
+# znak = random.choice(heslo)
+# print(znak)
+
+
