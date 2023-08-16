@@ -9,14 +9,15 @@ print(12 * 174 * 15)
 # Divadlo se rozhodlo prodávat studentské vstupné ve výši 65% plného vstupného.
 # Jak se změní měsíční příjem divadla pokud víme, že polovina návštěvníků jsou studenti?
 
-# Měsíční říjem divdla ze studentského vstupného:
+# Měsíční příjem divadla jen ze studentského vstupného:
 print(87 * 7.8 * 15)
 
+#########################################
 ## Nebo celkem:
 print(12 * 174 / 2 * 15 + 12 * 174 / 2 * 15 * 0.65)
 
-## S použitím závorek
+## S použitím závorek:
 print(12 * 15 * 174 / 2 * (1 + 0.65))
 
-## Nebo
+## Nebo takhle:
 print(((12 * 174 / 2) + (12 * 0.65 * 174 / 2)) * 15)

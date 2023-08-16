@@ -13,6 +13,10 @@ sleva = 0.3
 nova_cena_za_kus = cena_za_kus * (1 - sleva)
 
 print(nazev)
-print(
-    f"Speciální akce: Všechny tituly za {cena_za_kus} dnes jen za {nova_cena_za_kus}!"
-)
+print(cena_za_kus)
+print(nova_cena_za_kus)
+
+
+# print(
+#     f"Speciální akce: Všechny tituly za {cena_za_kus} dnes jen za {nova_cena_za_kus}!"
+# )
